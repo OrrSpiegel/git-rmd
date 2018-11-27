@@ -15,4 +15,4 @@ In this workshop, you will learn the basics of git/GitHub, create an RMarkdown f
 - Workshop [slides](https://ecodatasci-tlv.github.io/git-rmd/pres.html)  
 - [RMarkdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
 
-- Orr: checkign edits on forked version in my own github
+- Orr: checking edits on forked version in my own github
